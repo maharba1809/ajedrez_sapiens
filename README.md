@@ -1,7 +1,13 @@
 # Ajedrez Sapiens
 V 1.0.0
+![alt text]()
+[![Audi R8](https://linuxparaorcos.files.wordpress.com/2019/07/captura.jpg?w=748&h=561)]
+
+
 simple chess video game man vs man
 #Contact Join to this project or support it for future development, donations and feedback at nordik14@gmail.com
+
+https://wp.me/p5u7RE-5V
 
 Dependencies
 pygame
