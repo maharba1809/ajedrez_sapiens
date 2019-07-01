@@ -1,4 +1,4 @@
-# ajedrez_sapiens
+# Ajedrez Sapiens
 V 1.0.0
 simple chess video game man vs man
 #Contact Join to this project or support it for future development, donations and feedback at nordik14@gmail.com
