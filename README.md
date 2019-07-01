@@ -8,9 +8,7 @@ pygame
 python
 tested in Windows 10 and Ubuntu
 
-#Download
-
-https://github.com/maharba1809/ZombiePan-pygame-src
+#Download this package
 
 #Install for Windows: I- Install from source:
 
@@ -53,8 +51,8 @@ sudo pip3 install pygame
 
 sh run.sh
 
-INSTRUCCIONES
-#1 Instala python pygame y pip3 deacuerdo a tu SO.
-#2 Descarga y extrae este paquete en en lugar deseado.
-#3 executa el archivo run.file para correr en windows o run.sh para correr linux
+#INSTRUCCIONES
+1. Instala python pygame y pip3 deacuerdo a tu SO.
+2. Descarga y extrae este paquete en en lugar deseado.
+3. Executa el archivo run.file para correr en windows o run.sh para correr linux
 
