@@ -1,7 +1,6 @@
 import pygame
 import os
 import defaults as df
-import device
 import random
 import time
 import var
