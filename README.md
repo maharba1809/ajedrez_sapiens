@@ -54,7 +54,7 @@ sudo pip3 install pygame
 sh run.sh
 
 INSTRUCCIONES
-1 Instala python pygame y pip3 deacuerdo a tu SO.
-2 Descarga y extrae este paquete en en lugar deseado.
-3 executa el archivo run.file para correr en windows o run.sh para correr linux
+#1 Instala python pygame y pip3 deacuerdo a tu SO.
+#2 Descarga y extrae este paquete en en lugar deseado.
+#3 executa el archivo run.file para correr en windows o run.sh para correr linux
 
