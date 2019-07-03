@@ -1,4 +1,8 @@
 
+import os
+script_path = os.path.dirname(os.path.abspath( __file__ ))
+print(script_path)
+os.chdir(script_path)
 import imp
 
 import pygame
@@ -29,8 +33,8 @@ class Screen():
             for event in pygame.event.get():
 
                 if event.type == pygame.QUIT:
-                    pygame.quit()
-                    quit()
+                    print('Saliendo del Juego')
+                    self.stopEngine = True
                 if event.type == pygame.KEYDOWN:
                     free_piece = True
                     print('librando pieza')
