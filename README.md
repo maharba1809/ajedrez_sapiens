@@ -48,7 +48,7 @@ Probado en windows y linux
 
 1. Instala python pygame y pip3 deacuerdo a tu SO linux o Windows
 2. Descarga y extrae este paquete en en lugar deseado.
-3. Executa el archivo run.file para correr en windows o run.sh para correr linux
+3. Executa el archivo run.bat para correr en windows o run.sh para correr linux
 
 #INSTRUCCIONES PARA CORRER DESDE EXECUTABLES:
 
